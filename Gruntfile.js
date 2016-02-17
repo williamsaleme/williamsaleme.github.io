@@ -34,7 +34,7 @@ module.exports = function(grunt) {
         uglify: {
             options: {
                 sourceMap: false,
-                    banner: 'wsaleme.github.io'
+                    banner: "// wsaleme.github.io\n\n"
             },
             dev: {
                 options: { compress: false },

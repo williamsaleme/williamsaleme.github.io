@@ -1,0 +1,21 @@
+{% include 'lib/twig/_header.twig' with { 'title': pageTitles.home ~ pageTitles.default, 'bodyClass': pageClasses.home } %}
+
+        <img class="w-logo" src="{{ cdnUrl }}/lib/dist/img/wlogo.png" alt="W Logo" border="0" />
+        <h1>Will Salem&eacute; @wsaleme</h1>
+        <h2>Senior Full Stack Software Engineer</h2>
+
+        <p class="status">
+            Status:
+            <span>Hired at
+                <a href="https://www.keek.com" target="_blank">Keek Inc</a> in <a href="https://goo.gl/maps/w73fSs8T2T62" target="_blank">Toronto</a>.
+            </span>
+        </p>
+        <p class="status">
+            Availability: <span>Looking for new opportunities now.</span>
+        </p>
+
+        <button type="button" class="contact-me" id="contact-me-button" onclick="insertContactInfo()">Get in touch!</button>
+        <p class="contact-info" id="contact-info"></p>
+
+        <!-- End of Body Content -->
+        {% include 'lib/twig/_footer.twig' %}

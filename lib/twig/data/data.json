@@ -1,0 +1,12 @@
+{
+    "cdnUrl": "https://cdn.rawgit.com/wsaleme/wsaleme.github.io/master",
+    "pageTitles": {
+        "default": "William Salem&eacute; &bull; Official Home",
+        "home": "",
+        "portfolio": "Portfolio: "
+    },
+    "pageClasses": {
+        "home": "page-home",
+        "portfolio": "page-portfolio"
+    }
+}

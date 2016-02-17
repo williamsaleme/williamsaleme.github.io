@@ -1,0 +1,47 @@
+img.w-logo {
+    display: block;
+    margin: 0 auto 40px;
+    padding-top: 60px;
+}
+
+p.status {
+    text-align: center;
+    color: #222;
+}
+
+p.status span {
+    font-weight: bold;
+}
+
+p.contact-info {
+    text-align: center;
+    margin: 0;
+    padding-bottom: 40px;
+    display: none;
+}
+
+p.contact-info.enabled {
+    display: block;
+}
+
+p.contact-info *.uppercase {
+    text-transform: uppercase;
+}
+
+button.contact-me {
+    display: block;
+    margin: 60px auto 40px;
+    padding: 30px;
+    background: white;
+    border: solid 1px #ccc;
+    border-radius: 4px;
+    color: #444;
+    font-weight: bold;
+    outline: none !important;
+}
+
+button.contact-me:disabled {
+    background: #eee;
+    color: #aaa;
+    opacity: 0.75;
+}

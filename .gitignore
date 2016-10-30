@@ -5,5 +5,4 @@ ehthumbs.db
 .sass-cache/*
 .idea/*
 vendor/*
-node_modules/*
 var/*

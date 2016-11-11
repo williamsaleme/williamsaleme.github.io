@@ -195,13 +195,27 @@ h1, h2, h3, h4, h5, h6 {
     background: white;
     position: absolute;
     right: 0;
-    padding: 10px 20px;
+    padding: 30px 20px 10px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     border: 1px solid rgba(0, 0, 0, 0.5);
     border-right: none;
     margin-top: 60px;
     box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.3); }
+    .navbar-custom .nav-subnav .hired-status {
+      font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      text-transform: uppercase;
+      width: 100%;
+      line-height: 20px;
+      top: 0;
+      right: 0;
+      position: absolute;
+      display: inline-block;
+      background: #58D68D;
+      border-top-left-radius: 5px;
+      text-transform: uppercase;
+      box-shadow: 0px 1px 0px black;
+      text-align: center; }
 
 @media (min-width: 768px) {
   .navbar-custom {

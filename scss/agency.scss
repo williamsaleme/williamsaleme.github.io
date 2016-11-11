@@ -435,6 +435,9 @@ section {
                 left: -14px;
                 right: auto;
             }
+            &.no-description {
+                margin-top: 1.9%;
+            }
         }
         .timeline-image {
             left: 0;
@@ -552,6 +555,10 @@ section {
             min-height: 150px;
             .timeline-panel {
                 padding: 0 20px 20px;
+
+                &.no-description {
+                    margin-top: 4.5%;
+                }
             }
             .timeline-image {
                 width: 150px;

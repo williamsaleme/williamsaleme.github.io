@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /60311207-032d-4a44-b38a-41843982973d/
+Disallow: /cleantime/

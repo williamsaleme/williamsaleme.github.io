@@ -6,3 +6,4 @@ ehthumbs.db
 .idea/*
 vendor/*
 var/*
+node_modules/*

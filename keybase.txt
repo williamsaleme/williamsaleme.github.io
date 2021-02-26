@@ -1,33 +1,33 @@
 ==================================================================
-https://keybase.io/willsaleme
+https://keybase.io/liamsaleme
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://wsaleme.github.io
-  * I am willsaleme (https://keybase.io/willsaleme) on keybase.
-  * I have a public key ASAhe8LNecA89Ya17717p0O5RUKZPMB8KpA97AtXsPcVJAo
+  * I am an admin of https://liamsaleme.github.io
+  * I am liamsaleme (https://keybase.io/liamsaleme) on keybase.
+  * I have a public key ASCxOb-xKQuMgCuuVwyTC53U-KREn7xUmfSbKjB1QwO7BAo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120217bc2cd79c03cf586b5efbd7ba743b94542993cc07c2a903dec0b57b0f715240a",
+      "eldest_kid": "0120b139bfb1290b8c802bae570c930b9dd4f8a4449fbc5499f49b2a30754303bb040a",
       "host": "keybase.io",
-      "kid": "0120217bc2cd79c03cf586b5efbd7ba743b94542993cc07c2a903dec0b57b0f715240a",
-      "uid": "3eb088d5b656f9fbe5f03edc8692d019",
-      "username": "willsaleme"
+      "kid": "0120b139bfb1290b8c802bae570c930b9dd4f8a4449fbc5499f49b2a30754303bb040a",
+      "uid": "4de330cc9dbfe90d195df3a86db87619",
+      "username": "liamsaleme"
     },
     "merkle_root": {
-      "ctime": 1606943025,
-      "hash": "ea138e84934a553a77caa1672872ad6b534e67b8571b1331e8019e768e25530d80dc93022718fdfa4367ab8747cc4375234baa674d3f65e036e11cba839abbc4",
-      "hash_meta": "100a47047a0558a3e0a8e01dec0b79f31c9db4f23f77fa66453e98e08c0f4050",
-      "seqno": 18292992
+      "ctime": 1614368692,
+      "hash": "e80e7ea21af28769ae7e2c8d5b539b3c211c0091d095157589d3addb47063670f7b9d7d52fc150c3bb207132e3e6077ee9c9244667354e173fbb76204a3a6b4b",
+      "hash_meta": "2801f3c0b4c31ef19b0d96b43daac15c94956a67906e9e5ce68802fbe3d27692",
+      "seqno": 19232389
     },
     "service": {
-      "entropy": "LmomrZDS1uUSj8TlpZ6q+GYC",
-      "hostname": "wsaleme.github.io",
+      "entropy": "m96RxWcvTlZS/FLJiWhyVZng",
+      "hostname": "liamsaleme.github.io",
       "protocol": "https:"
     },
     "type": "web_service_binding",
@@ -35,22 +35,22 @@ To do so, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "5.5.0"
+    "version": "5.6.2"
   },
-  "ctime": 1606943076,
+  "ctime": 1614368700,
   "expire_in": 504576000,
-  "prev": "2123a1886ff3b5bcfe0bf73626453edce4fff023e2025c5ba7e8bb9b68919f11",
-  "seqno": 11,
+  "prev": "ee95c67528ad8738d4a73ff6b41e8a0c6fa08c87a21c6acdb461990c7745a8d0",
+  "seqno": 8,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIXvCzXnAPPWGte+9e6dDuUVCmTzAfCqQPewLV7D3FSQKp3BheWxvYWTESpcCC8QgISOhiG/ztbz+C/c2JkU+3OT/8CPiAlxbp+i7m2iRnxHEIOKMj48wZNdXH3wEVN9p3tHg2kvNJZZfgbk9G3wxLB6CAgHCo3NpZ8RAFCMybjdyncLkvz04zONwmG2i/k4bo3suJiM/VKdo//V6FpsUp3f1Ix70iUNKiwBAFbIxQwBGjKVe6vePNp7lBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK7gfNY29qqvfr4gXkXTcFlwKE0a9FH1TfhFHDs1xdjto3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsTm/sSkLjIArrlcMkwud1PikRJ+8VJn0myowdUMDuwQKp3BheWxvYWTESpcCCMQg7pXGdSithzjUpz/2tB6KDG+gjIeiHGrNtGGZDHdFqNDEIHM0aUgipgAj4ibGvHhRE7aBQ1zwYs3AMsLG+lB9WV0RAgHCo3NpZ8RAkdQMXguOt6V0HJGO1GxjGQPvHoeHNC6fxdhREemo0CkOTpakFqn9oCdGYVzpEAJzTVM+O5eO/rEzZCVWfuUfAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGspPXeK4YYoxtCt26zTWjlBFVSThe/a7znzdxIDRjyLo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/willsaleme
+View my publicly-auditable identity here: https://keybase.io/liamsaleme
 
 ==================================================================

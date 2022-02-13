@@ -1,3 +1,3 @@
 # Personal Portfolio
 
-Personal portfolio for Liam Saleme
+Personal portfolio for William Saleme

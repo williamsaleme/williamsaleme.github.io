@@ -274,7 +274,7 @@ header {
   header .container {
     width: 100%;
     padding: 0;
-    background-image: url("../img/wsaleme-banner-station.png");
+/*     background-image: url("../img/wsaleme-banner-station.png"); */
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center; }
